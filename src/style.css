@@ -1,0 +1,9 @@
+.loading{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    display: grid;
+    font-weight: bolder;
+}
+
